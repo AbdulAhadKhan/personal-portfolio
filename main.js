@@ -1,7 +1,5 @@
 import './style.css'
-import javascriptLogo from './javascript.svg'
 import viteLogo from '/logo.svg'
-import { setupCounter } from './counter.js'
 
 document.querySelector('#app').innerHTML = `
   <div>
@@ -9,5 +7,3 @@ document.querySelector('#app').innerHTML = `
     <h1>Abdul Ahad Khan</h1>
   </div>
 `
-
-setupCounter(document.querySelector('#counter'))
