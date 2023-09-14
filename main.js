@@ -3,7 +3,7 @@ import viteLogo from '/logo.svg'
 
 document.querySelector('#app').innerHTML = `
   <div>
-    <img src="${viteLogo}" class="logo" alt="Vite logo" />
+    <img src="${viteLogo}" class="logo" alt="Abdul Ahad Khan logo" />
     <h1>Abdul Ahad Khan</h1>
   </div>
 `
